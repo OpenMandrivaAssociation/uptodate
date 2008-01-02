@@ -8,6 +8,7 @@ Source0:        http://voxel.jouy.inra.fr/darcs/uptodate/uptodate-%{version}.tar
 License:        GPL
 Group:          Networking/Other
 Requires:       python >= 2.3
+BuildRoot:      %{_tmppath}/%{name}-buildroot
 BuildArch:      noarch
 BuildRequires:  python-devel
 
