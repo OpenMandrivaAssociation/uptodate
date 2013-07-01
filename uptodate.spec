@@ -1,6 +1,6 @@
 
 Name:           uptodate
-Summary:        Uptodate helps you to keep your system uptodate
+Summary:        Helps you to keep your system uptodate
 Version:        0.3.1
 Release:        %mkrel 12
 URL:            http://voxel.jouy.inra.fr/darcs/uptodate
