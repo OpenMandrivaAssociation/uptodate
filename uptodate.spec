@@ -2,13 +2,12 @@
 Name:           uptodate
 Summary:        Helps you to keep your system uptodate
 Version:        0.3.1
-Release:        %mkrel 12
+Release:        13
 URL:            http://voxel.jouy.inra.fr/darcs/uptodate
 Source0:        http://voxel.jouy.inra.fr/darcs/uptodate/uptodate-%{version}.tar.bz2
 License:        GPL
 Group:          Networking/Other
 Requires:       python >= 2.3
-BuildRoot:      %{_tmppath}/%{name}-buildroot
 BuildArch:      noarch
 BuildRequires:  python-devel
 
