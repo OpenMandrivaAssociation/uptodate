@@ -2,7 +2,7 @@
 Name:           uptodate
 Summary:        Helps you to keep your system uptodate
 Version:        0.3.1
-Release:        13
+Release:        14
 URL:            http://voxel.jouy.inra.fr/darcs/uptodate
 Source0:        http://voxel.jouy.inra.fr/darcs/uptodate/uptodate-%{version}.tar.bz2
 License:        GPL
